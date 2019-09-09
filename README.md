@@ -22,7 +22,7 @@ Pure substances (for use as working fluids) are mentioned as per their REFPROP f
 
 *Nomenclature of variables in MATLAB programs*
 
-In these MATLAB programs, variables that store values of physical properties usually have the following name format: name_unit.
+In these MATLAB programs, variables that store values of physical properties usually have the following name format: *name_unit*.
 Examples:
 • ambient_T_K is the variable storing the value of ambient temperature, in kelvins. 
 • h3_Jperkg is the variable storing the value of specific enthalpy of working fluid at state 3, in joules per kilogram. 
