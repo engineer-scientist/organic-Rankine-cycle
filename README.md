@@ -4,6 +4,9 @@ Organic Rankine cycle (ORC) is a technology for producing work by utilizing heat
 
 This repository contains programs for computational analysis of ORC with different working fluids (pure and mixed), expander inlet temperatures, and pump outlet pressures. Some programs are of ORC without economizer, and others are of ORC with economizer. (Programs are in MATLAB, and invoke REFPROP for physical properties of substances used as working fluids.)
 
+*Inputs* include variable parameters like working fluid, expander inlet temperature, pump outlet pressure; and constant parameters like ambient temperature and component efficiencies.
+*Outputs* are net work produced and overall efficiency.
+
 Work includes systematic analysis of 75 pure substances, and sample analysis of 16 sample mixtures, as ORC working fluids.
 
 Output graphs are also included here.
