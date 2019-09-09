@@ -1,6 +1,3 @@
-% about 14 minutes 45 seconds for 6 WF, 40 T, 40 P (9600 cases).
-% 2592.253 s (43 minutes and 12.253 seconds) for 15 WF, 21 T, 34 P (10710 cases).
-
 clc;
 clear;
 
@@ -181,3 +178,6 @@ xlabel ('Pump outlet pressure (kPa)')
 zlabel ('Overall efficiency')
 legend_object = legend (mass_composition_array);
 title (legend_object, legend_title);
+
+% about 14 minutes 45 seconds for 6 WF, 40 T, 40 P (9600 cases).
+% 2592.253 s (43 minutes and 12.253 seconds) for 15 WF, 21 T, 34 P (10710 cases).
