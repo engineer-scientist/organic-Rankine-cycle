@@ -7,7 +7,7 @@ This repository contains programs for computational analysis of ORC with differe
 *Inputs* include variable parameters like working fluid, expander inlet temperature, pump outlet pressure; and constant parameters like ambient temperature and component efficiencies.
 *Outputs* are net work produced and overall efficiency.
 
-Work includes systematic analysis of 75 pure substances, and sample analysis of 16 sample mixtures, as ORC working fluids.
+This project includes systematic analysis of 75 pure substances, and sample analysis of 16 sample mixtures, as ORC working fluids.
 
 Output graphs are also included here.
 
