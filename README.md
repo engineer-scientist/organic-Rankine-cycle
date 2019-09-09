@@ -9,7 +9,7 @@ This repository contains programs for computational analysis of ORC with differe
 
 This project includes systematic analysis of 75 pure substances, and sample analysis of 16 sample mixtures, as ORC working fluids.
 
-Output graphs are also included here.
+Output graphs (3-D and 2-D) and ORC schematics are in the "image-folder".
 
 This work is a part of my master's degree research project in mechanical engineering, at Indian Institute of Science (IISc).
 I also did case study on 100 kW ORC power plant in IISc Challakere campus, and construction of lab-scale experiemental setup in IISc Bangalore campus.
